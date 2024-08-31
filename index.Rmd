@@ -1,40 +1,50 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Manami Ueshima"
+image: "Manami.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/manami-ueshima-a1372a324/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/manamiueshima"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:manamiueshima@email.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Manami Ueshima is a board-certified pediatrician in Japan with a keen interest in pediatric neurology. She is currently a full-time MPH student at the Johns Hopkins University Bloomberg School of Public Health. Her focus is on the neurological complications of COVID-19 in children, motivated by her own experience with cerebrospinal fluid (CSF) leakage due to COVID-19. She aspires to pursue a career in pediatric neurology in a clinical setting while also conducting research related to child health.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins Bloomberg School of Public Health** 
 
-Ph.D. in Computer Science | September 2009 - May 2014
+     MPH | July 2024 - present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Showa University School of Medicine**
 
-B.S. in Computer Science | September 2005 - May 2009
+     PhD in pediatric neurology | October 2023 - present
+
+**University of Toyama School of Medicine**
+
+     MD | April 2011 - Mar 2017
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Pediatrics Clinical Fellow** 
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+     Kameda Medical Center | Apr 2023 - June 2024
+
+**Pediatrics Resident** 
+
+     Kameda Medical Center | Apr 2019 - Mar 2023
+
+**Vice Chief Medical Intern**
+
+     United States Naval Hospital Yokosuka | Apr 2017 - Mar 2018
+
+**General Resident** 
+
+     Kameda Medical Center | Apr 2017 - Mar 2018
+
